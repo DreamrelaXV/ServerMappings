@@ -5,8 +5,7 @@
     "store": "https://store.celestialrbw.fun",
     "description": "A competitive Ranked Bedwars server designed for ME players",
     "addresses": [
-        "celestialrbw.fun",
-        "celestialrbw.com"
+        "celestialrbw.fun"
     ],
     "primaryAddress": "celestialrbw.fun",
     "primaryColor": "#00518f",
